@@ -1,6 +1,4 @@
-{
-   "stack": "heroku-18"
-}
+
 {
   "name": "TGFileStream - Telegram Bot 🤖",
   "description": "This is telegram Bot uses Telethon & aiohttp library which asyncronously download files from telegram.",
@@ -36,5 +34,9 @@
       "description": "This is your Heroku app URL. For example : your Heroku app name is tgfilestream - Then URL is -> https://tgfilestream.herokuapp.com ",
       "value": ""
     }
+     
   }
+{
+   "stack": "heroku-18"
+}
 }
