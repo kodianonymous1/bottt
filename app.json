@@ -2,6 +2,7 @@
 {
   "name": "TGFileStream - Telegram Bot 🤖",
   "description": "This is telegram Bot uses Telethon & aiohttp library which asyncronously download files from telegram.",
+  "stack": "heroku-18",
   "keywords": [
     "Telethon",
     "best",
@@ -36,7 +37,4 @@
     }
      
   }
-{
-   "stack": "heroku-18"
-}
 }
