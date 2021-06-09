@@ -1,4 +1,7 @@
 {
+   "stack": "heroku-18"
+}
+{
   "name": "TGFileStream - Telegram Bot 🤖",
   "description": "This is telegram Bot uses Telethon & aiohttp library which asyncronously download files from telegram.",
   "keywords": [
